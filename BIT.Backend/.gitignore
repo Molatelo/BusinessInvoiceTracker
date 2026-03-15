@@ -1,0 +1,14 @@
+.vs
+.vscode
+.dockerignore
+/BIT.Api/bin
+/BIT.Api/obj
+/BIT.Application/bin
+/BIT.Application/obj
+/BIT.Common/bin
+/BIT.Common/obj
+/BIT.Domain/bin
+/BIT.Domain/obj
+/BIT.Infrastructure/bin
+/BIT.Infrastructure/obj
+

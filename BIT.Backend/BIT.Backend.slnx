@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BIT.Api/BIT.Api.csproj" />
+  <Project Path="BIT.Application/BIT.Application.csproj" />
+  <Project Path="BIT.Common/BIT.Common.csproj" />
+  <Project Path="BIT.Domain/BIT.Domain.csproj" />
+  <Project Path="BIT.Infrastructure/BIT.Infrastructure.csproj" />
+</Solution>

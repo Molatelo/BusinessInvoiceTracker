@@ -1,0 +1,6 @@
+@BIT.Api_HostAddress = http://localhost:5190
+
+GET {{BIT.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
